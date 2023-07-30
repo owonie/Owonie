@@ -1,10 +1,10 @@
 <div align=center> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Owon%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_Owon%20&fontSize=70)
 
 
 
-## this.Owon = Hi 👋
+## Hi this is Owon 👋
 
   
 ###  ✨ Main Tech ✨
