@@ -1,10 +1,10 @@
 <div align=center> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Albert-Choi%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Owon%20&fontSize=70)
 
 
 
-## 안녕하세요, 프론트개발에 진심인 개발자 오원입니다 👋
+## this.Owon = Hi 👋
 
   
 ###  ✨ Main Tech ✨
