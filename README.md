@@ -13,8 +13,8 @@
 ###  💫 Used at least 💫
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>  <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=black"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=signalzero96&layout=compact)](https://github.com/signalzero96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owonie&layout=compact)](https://github.com/signalzero96/github-readme-stats)
 
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=signalzero96&show_icons=true&theme=radical)
+![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Owonie&show_icons=true&theme=radical)
   
 </div>
