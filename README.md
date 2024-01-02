@@ -14,11 +14,11 @@
 ###  💫 Used Skills 💫
 <img src="https://img.shields.io/badge/Next.js-E6E6E6?style=flat-square&logo=Next.js&logoColor=black"/>  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-3776AB?style=flat-square&logo=Spring&logoColor=black"/>  <img src="https://img.shields.io/badge/NestJs-339933?style=flat-square&logo=NestJs&logoColor=black"/>  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black"/>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Owonie&layout=compact)](https://github.com/Owonie/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=owonie&layout=compact)](https://github.com/owonie/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=signalzero)](https://solved.ac/signalzero/)
 
-![*'s GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Owonie&show_icons=true&theme=radical)
+![*'s GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=owonie&show_icons=true&theme=radical)
 
 
   
