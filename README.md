@@ -1,24 +1,21 @@
 <div align=center> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_Owon%20&fontSize=70)
-
-
 ### Owon
 ##### Mad for climing 🧗
 ##### Like to develop core stuff 💡
 
-### ✨ Holic ✨
+### Holic ✨
 [![My Skills](https://skills.thijs.gg/icons?i=rust,ts,babel,vite,webpack,yarn,npm&perline=13)](#)
 
-### ✨ Skillful ✨
+### Skillful 💫
 [![My Skills](https://skills.thijs.gg/icons?i=react,next,tailwind,redux,firebase&perline=13)](#)
 
-### ✨ With money  ✨
+### With money 💵
 [![My Skills](https://skills.thijs.gg/icons?i=vue,pinia,androidstudio,swift&perline=13)](#) 
 
 ##### **+React-Native**
 
-### ✨ ETC ✨
+### ETC 🙈
 [![My Skills](https://skills.thijs.gg/icons?i=kotlin,python,spring,nestjs,mongodb,mysql,aws&perline=13)](#)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=owonie&layout=compact)](https://github.com/owonie/github-readme-stats)
