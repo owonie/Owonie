@@ -3,8 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_Owon%20&fontSize=70)
 
 
-
-## Hi this is Owon 👋
+### Owon
+##### Mad for climing 🧗
+##### Like to develop core stuff 💡
 
 ### ✨ Holic ✨
 [![My Skills](https://skills.thijs.gg/icons?i=rust,ts,babel,vite,webpack,yarn,npm&perline=13)](#)
