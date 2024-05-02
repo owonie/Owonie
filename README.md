@@ -5,18 +5,18 @@
 ##### Like to develop core stuff 💡
 
 ### Holic ✨
-[![My Skills](https://skills.thijs.gg/icons?i=rust,ts,babel,vite,webpack,yarn,npm&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,babel,vite,webpack,yarn,npm&perline=13)](#)
 
 ### Skillful 💫
-[![My Skills](https://skills.thijs.gg/icons?i=react,next,tailwind,redux,firebase&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,redux,firebase&perline=13)](#)
 
 ### With money 💵
-[![My Skills](https://skills.thijs.gg/icons?i=vue,pinia,androidstudio,swift&perline=13)](#) 
+[![My Skills](https://skillicons.dev/icons?i=vue,pinia,androidstudio,swift&perline=13)](#) 
 
 ##### **+React-Native**
 
 ### ETC 🙈
-[![My Skills](https://skills.thijs.gg/icons?i=kotlin,python,spring,nestjs,mongodb,mysql,aws&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,python,spring,nestjs,mongodb,mysql,aws&perline=13)](#)
 
 ![*'s GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=owonie&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owonie&langs_count=5&layout=donut&theme=dark)](https://github.com/owonie/Owonie)﻿
