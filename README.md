@@ -18,8 +18,7 @@
 ### ETC 🙈
 [![My Skills](https://skillicons.dev/icons?i=kotlin,python,spring,nestjs,mongodb,mysql,aws&perline=13)](#)
 
-![*'s GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=owonie&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owonie&langs_count=5&layout=donut&theme=dark)](https://github.com/owonie/Owonie)﻿
+![*'s GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=owonie&show_icons=true&theme=radical)﻿
 
 
   
