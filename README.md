@@ -4,19 +4,13 @@
 ##### Mad for climing 🧗
 ##### Like to develop core stuff 💡
 
-### Holic ✨
-[![My Skills](https://skillicons.dev/icons?i=rust,ts,babel,vite,webpack,yarn,npm&perline=13)](#)
+### Technologies of Interest ✨
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,github&perline=13)](#)
 
-### Skillful 💫
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,redux,firebase&perline=13)](#)
+### Technologies in Use 💫
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,aws,firebase,gradle&perline=13)](#)
 
-### With money 💵
-[![My Skills](https://skillicons.dev/icons?i=vue,pinia,androidstudio,swift&perline=13)](#) 
-
-##### **+React-Native**
-
-### ETC 🙈
-[![My Skills](https://skillicons.dev/icons?i=kotlin,python,spring,nestjs,mongodb,mysql,aws&perline=13)](#)
+##### **+ React-Native**
 
 ![*'s GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=owonie&show_icons=true&theme=radical)﻿
 
