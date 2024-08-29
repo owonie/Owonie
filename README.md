@@ -1,22 +1,17 @@
-<div align=center> 
+<div> 
   
 ### Owon
 ##### Mad for climing 🧗
-##### Like to develop core stuff 💡
+“I’m passionate about frontend development and dedicated to creating tools and environments that make developers’ work more efficient and enjoyable.”
 
-### Technologies of Interest ✨
-[![My Skills](https://skillicons.dev/icons?i=rust,ts,github&perline=13)](#)
+<div align="center">
 
-### Technologies in Use 💫
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,aws,firebase,gradle&perline=13)](#)
+| **Technologies of Interest ✨** | **Technologies in Use 💫** |
+|:---:|:---:|
+| [![My Skills](https://skillicons.dev/icons?i=rust,ts,github&perline=13)](#) | [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,aws,firebase,gradle&perline=13)](#) |
+| **+ Test Code** | **+ React-Native** |
 
-##### **+ React-Native**
-
-![*'s GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=owonie&show_icons=true&theme=radical)﻿
-
+</div>
 
   
 </div>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOwonie&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
