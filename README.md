@@ -11,8 +11,8 @@ Lately, I’ve been studying version control and dependency management.”
 
 | **Technologies in Use 💫** | **Technologies of Interest ✨** |
 |:---:|:---:|
-| [![My Skills](https://skillicons.dev/icons?i=ts,react,next,aws,firebase,gradle&perline=13)](#) | [![My Skills](https://skillicons.dev/icons?i=rust,nodejs,github&perline=13)](#) |
-| **+ React-Native** | **+ Test Code** |
+| [![My Skills](https://skillicons.dev/icons?i=ts,react,next,kotlin,spring,aws,firebase,gradle&perline=13)](#) | [![My Skills](https://skillicons.dev/icons?i=rust,nodejs,github&perline=13)](#) |
+| **+ React-Native** | **+ CRM Dev (Braze, Amplitude)** |
 
 </div>
 
